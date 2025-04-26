@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "diamond-command",
+	"id": "diamond-game",
 	"version": "${version}",
 	"name": "diamond-command",
 	"description": "This is an example description! Tell everyone what your mod is about!",
